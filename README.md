@@ -1,6 +1,7 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sahiljosan&label=Profile%20views&color=FFA500&style=flat" alt="Sahiljosan" /> </p>
 ![Datascience Banner](https://user-images.githubusercontent.com/106590141/213756194-52015261-328a-4e24-9f3e-7c21c402c7c9.jpg)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sahiljosan&label=Profile%20views&color=ce9927&style=flat" alt="Sahiljosan" /> </p>
+
 
 # :standing_man: About Me:
 
