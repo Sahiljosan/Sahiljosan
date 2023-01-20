@@ -1,4 +1,4 @@
-![Datascience Banner](https://user-images.githubusercontent.com/106590141/213755597-11e59cb3-eae0-4758-a6d6-3761d7e204d4.jpg)
+![Datascience Banner](https://user-images.githubusercontent.com/106590141/213756194-52015261-328a-4e24-9f3e-7c21c402c7c9.jpg)
 
 # 	:standing_man: About Me:
 
