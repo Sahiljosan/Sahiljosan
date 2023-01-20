@@ -1,5 +1,6 @@
 ![Datascience Banner](https://user-images.githubusercontent.com/106590141/213756194-52015261-328a-4e24-9f3e-7c21c402c7c9.jpg)
 
+<img align="right" alt="coding" width= "400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47z96pi67b1n29nl4tm6u6yb6ftb867sw8wi4wpy2s&rid=giphy.gif&ct=g">
 # 	:standing_man: About Me:
 
 - 🔭 I’m always willing to learn new technology
@@ -8,7 +9,7 @@
 - 💬 Ask me about Ceramic Raw Materials, Data Science, Graphic Designing, Video Editing, Animation
 - 📫 How to reach me: sahiljosan50@gmail.com
 
-<img align="right" alt="coding" width= "400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47z96pi67b1n29nl4tm6u6yb6ftb867sw8wi4wpy2s&rid=giphy.gif&ct=g">
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahiljosan92) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-josan-a1256622b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@skillvalley8868/videos) 
