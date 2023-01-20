@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sahiljosan&label=Profile%20views&color=FFA500&style=flat" alt="Sahiljosan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahiljosan&label=Profile%20views&color=DC143C&style=flat" alt="Sahiljosan" /> </p>
+
 ![Datascience Banner](https://user-images.githubusercontent.com/106590141/213756194-52015261-328a-4e24-9f3e-7c21c402c7c9.jpg)
 
 
