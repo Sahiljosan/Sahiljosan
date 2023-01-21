@@ -26,7 +26,7 @@
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahiljosan&show_icons=true&theme=dark" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahiljosan&theme=dark" />
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/ username=Sahiljosan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
 	
 </p>
 
