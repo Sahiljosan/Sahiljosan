@@ -1,7 +1,7 @@
 ![Datascience Banner png ](https://user-images.githubusercontent.com/106590141/213868617-2350ac12-2cb9-4ca4-bf32-2c4be4f06c33.png)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahiljosan&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="Sahiljosan" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahiljosan&label=Profile%20views&color=1E90FF&style=flat" alt="Sahiljosan" /> </p>
 
 # :standing_man: About Me:
 
@@ -23,9 +23,12 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sahiljosan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sahiljosan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahiljosan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahiljosan&show_icons=true&theme=dark" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahiljosan&theme=dark" />
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahiljosan&theme=dark" />
+	
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
