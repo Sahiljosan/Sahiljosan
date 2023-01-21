@@ -28,7 +28,7 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahiljosan&theme=dark" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/ username=Sahiljosan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/username=Sahiljosan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
