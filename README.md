@@ -13,7 +13,7 @@
 
 <img align="right" alt="coding" width= "400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47z96pi67b1n29nl4tm6u6yb6ftb867sw8wi4wpy2s&rid=giphy.gif&ct=g">
 
-<img width = "12%" src = "https://i.imgur.com/uEHrwSQ.jpg" />
+[<img width = "12%" src = "https://i.imgur.com/uEHrwSQ.jpg" />](#My-Portfolio)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahiljosan92) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-josan-a1256622b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@skillvalley8868/videos) 
@@ -37,5 +37,21 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=Sahiljosan&icon=6&color=7)](https://visitcount.itsvg.in)
+# My Portfolio
+[<img width = "15%" src = "https://i.imgur.com/f11UWkp.jpg" />](#ML-Projects) [<img width = "15%" src = "https://i.imgur.com/K0baMn4.jpg" />](#Python-Projects) [<img width = "15%" src = "https://i.imgur.com/TlXAJ2o.jpg" />](#Advance-Excel-Dashboards)
+# ML-Projects
+Click on the thumbnail to view to project file and code *  <br><br>
+[<img width = "30%" src="https://i.imgur.com/jAQuWuF.png" />](https://github.com/Sahiljosan/Machine-Learning_Practical-Implimentation/tree/main/Ineuron%20Assignments/APS%20Failur%20At%20Scania%20Trucks) [<img width = "30%" src = "https://i.imgur.com/EsT8eBF.png" />](https://github.com/Sahiljosan/Machine-Learning_Practical-Implimentation/blob/main/Random%20forest/Random_forest_on_Power_Consumption.ipynb) [<img width = "30%" src = "https://i.imgur.com/blcJqjL.png" />](https://github.com/Sahiljosan/Machine-Learning_Practical-Implimentation/blob/main/Random%20forest/Assignment_Random_forest_class_Census_income.ipynb) [<img width = "30%" src = "https://i.imgur.com/aQ4YTYz.png" />](https://github.com/Sahiljosan/Machine-Learning_Practical-Implimentation/tree/main/SVM%20-%20Support%20Vector%20Machine/SVC%20on%20Adult%20Census%20Income%20Dataset) [<img width = "30%" src = "https://i.imgur.com/gZs6wBD.png" />](https://github.com/Sahiljosan/Machine-Learning_Practical-Implimentation/tree/main/SVM%20-%20Support%20Vector%20Machine/SVR%20-%20Admision%20Dataset%20with%20hypterparameter%20tuning) [<img width = "30%" src = "https://i.imgur.com/0SGotSu.png" />](https://github.com/Sahiljosan/Machine-Learning_Practical-Implimentation/tree/main/SVM%20-%20Support%20Vector%20Machine/SVR%20on%20Household%20Electricity%20comsumption) [<img width = "30%" src = "https://i.imgur.com/WLTtNYT.png" />](https://www.linkedin.com/posts/sahil-josan-a1256622b_usaccidentdataset-activity-6984939701400948736-NUlT?utm_source=share&utm_medium=member_desktop) [<img width = "30%" src = "https://i.imgur.com/iJlhArY.png" />](https://github.com/Sahiljosan/Machine-Learning_Practical-Implimentation) [<img width = "30%" src = "https://i.imgur.com/Rx93oQA.png" />](https://github.com/Sahiljosan/Machine-Learning-Notes)
+
+# Python-Projects
+Click on the thumbnail to view to project file and code *  <br><br>
+[<img width = "30%" src = "https://i.imgur.com/uK7CVyJ.png" />](https://github.com/Sahiljosan/Python_Projects/blob/main/Scrapping_Top_Github_Repositories/Scrapping_Top_Github_Repositories.ipynb) <br>
+[<img width = "12%" src = "https://i.imgur.com/3z3zrxO.jpg" />](#My-Portfolio)
+
+# Advance Excel Dashboards
+Click on the thumbnail to view to video of dashboards *  <br><br>
+[<img width = "30%" src = "https://i.imgur.com/f0PUrAO.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards)  [<img width = "30%" src = "https://i.imgur.com/BkW1MmQ.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards)  [<img width = "30%" src = "https://i.imgur.com/Zv5nMi7.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards)  [<img width = "30%" src = "https://i.imgur.com/J0og4Le.jpg" />](https://github.com/Sahiljosan/Advance-Excel-Dashboards) <br>
+[<img width = "12%" src = "https://i.imgur.com/3z3zrxO.jpg" />](#My-Portfolio)
+
 
 -------------------------------
